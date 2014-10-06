@@ -1,0 +1,1 @@
+function [dataAbsDiffHorizontal, temp, minTemp, maxTemp, alpha, threshold,cost, costMinus2, costMinus1, costPlus1, costPlus2, indexU, bestU,dataPhaseCorrected]=funcHassPhaseSinogram(dataPhase,dataAbs,rows,columns)
